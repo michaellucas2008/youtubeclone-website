@@ -1,0 +1,28 @@
+.name-box, .email-box
+{
+  display:block;
+  margin:5px;
+}
+
+.thanks-message
+{ 
+  display:inline-block;
+  font-size:20px;
+  width:250px;
+  vertical-align:middle;
+}
+.google-logo
+{
+  display:block;
+  margin-left:250px
+}
+.google-textbox
+{
+  margin-left:100px;
+  border:none;
+  padding:15px;
+  font-size:15px;
+  width:600px;
+  border-radius:40px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.2);
+}

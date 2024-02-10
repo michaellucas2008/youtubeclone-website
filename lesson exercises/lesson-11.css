@@ -1,0 +1,25 @@
+.eleven-a
+{
+  display:grid;
+  grid-template-columns:200px 75px;
+}
+.eleven-b
+{
+  display:grid;
+  grid-template-columns:50px 1fr 75px;
+}
+.eleven-c
+{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr 1fr;
+  column-gap: 20px;
+  row-gap: 10px;
+}
+.lightblue-div
+{
+  background-color:lightblue;
+}
+.lightpink-div
+{
+  background-color: lightpink;
+}

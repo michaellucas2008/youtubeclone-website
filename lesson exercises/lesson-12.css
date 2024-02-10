@@ -1,0 +1,76 @@
+.twelve-ab
+{
+  display:flex;
+  flex-direction: row;
+}
+.twelve-a1
+{
+  background-color:lightblue;
+  width:200px;
+}
+.twelve-a2
+{
+  background-color:lightpink;
+  width:75px;
+}
+
+.twelve-b1
+{
+  background-color:lightblue;
+  width:50px;
+}
+.twelve-b2
+{
+  background-color:lightpink;
+  flex:1;
+}
+.twelve-b3
+{
+  background-color:lightblue;
+  width:75px;
+}
+
+.twelve-c
+{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+}
+.twelve-c1
+{
+  background-color: lightpink;
+  flex:1;
+  margin-right:250px;
+}
+.twelve-c2
+{
+  background-color:lightpink;
+  flex:1;
+  margin-right:250px;
+}
+.twelve-c3
+{
+  background-color:lightpink;
+  flex:1;
+  margin-right:250px;
+}
+.twelve-c4
+{
+  background-color:lightpink;
+  flex:1;
+}
+.twelve-d
+{
+  display:flex;
+  flex-direction:row;
+  height:50px;
+  border-width:1px;
+  border-style:solid;
+  border-color:black;
+  justify-content:space-between;
+  align-items: center;
+}
+.twelve-d1-d2
+{
+  background-color:lightpink;
+}

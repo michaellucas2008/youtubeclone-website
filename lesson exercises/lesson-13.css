@@ -1,0 +1,39 @@
+.thirteen-a
+{
+  display:flex;
+}
+.thirteen-a1
+{
+  display:flex;
+  width:100px;
+  height:100px;
+  background-color: lightpink;
+  align-items: center;
+  justify-content: center;
+  
+}
+.thirteen-a2
+{
+  display:flex;
+  width:200px;
+  height:100px;
+  background-color:lightblue;
+}
+.thirteen-a3
+{
+  height:25px;
+  width: 45px;;
+  display:flex;
+  background-color:black;
+  justify-content: center;
+  align-items: center;
+}
+.thirteen-a4
+{
+  width:5px;
+  height:5px;
+  color:white;
+  padding-right:35px;
+  padding-bottom: 10px;
+  font-size:18px;
+}

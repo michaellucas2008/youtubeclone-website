@@ -1,0 +1,62 @@
+
+.red-square
+{
+  width:1px;
+  background-color: red;
+  padding:50px;
+  margin: 50px;
+}
+.green-square
+{
+  width:1px;
+  background-color: green;
+  padding:50px;
+  margin:50px;
+  border-radius:100%;
+}
+.div-service
+{
+  font-size: 20px;
+  width:350px;
+  height:100px;
+  border-style: solid;
+  border-width: 0.1px;
+  border-color:#848584;
+  margin:5px;
+}
+.customer-service
+{
+  padding-left: 15px;
+  padding-top: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+.yes-button
+{
+  margin-left:15px;
+}
+.youtube-music-div
+{
+  width:390px;
+  height:115px;
+  background-color: #1e1d1f;
+  margin:5px;
+}
+.youtube-music-install,.youtube-music-description
+{
+  font-family: Roboto;
+  padding-left:15px;
+}
+.youtube-music-install
+{
+  padding-top:15px;
+  font-weight: bold;
+  color:white;
+  font-size: 22px;
+}
+.youtube-music-description
+{
+  padding-top:15px;
+  padding-bottom:15px;
+  color:#848584;
+}

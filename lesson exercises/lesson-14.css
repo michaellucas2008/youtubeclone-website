@@ -1,0 +1,86 @@
+body
+{
+  height:3000px;
+}
+p
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bottom-right
+{
+  position:fixed;
+  bottom:20px;
+  right:20px;
+  background-color: black;
+  color:white;
+}
+.right-sidebar
+{
+  position:fixed;
+  top:0;
+  right:0;
+  bottom:0;
+  width:100px;
+  background-color: green;
+  color:white;
+}
+.black-page
+{
+  position:fixed;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  background-color:black;
+}
+.background-overlay
+{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  position:fixed;
+  top:0;
+  bottom:0;
+  right:0;
+  left:0;
+  background-color:rgba(0,0,0,0.8);
+}
+.modal-div
+{
+  width:300px;
+  border-radius:5px;
+  background-color:white;
+}
+.sub1-div
+{
+
+  padding-left:20px;
+
+}
+.sub2-div
+{
+ 
+  padding-left:20px;
+
+}
+.sub3-div
+{
+  padding-left:20px;
+}
+.modal-title
+{
+  font-size:25px;
+  font-weight: bold;
+}
+.modal-text
+{
+  font-size: 15px;
+}
+.modal-button
+{
+  background-color: rgb(231, 229, 229);
+  border-radius:2px;
+  width:50px;
+  margin-bottom:20px;
+  border-color:rgb(230, 230, 230)
+}

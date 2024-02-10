@@ -1,0 +1,40 @@
+body
+{
+  height:3000px;
+}
+.close-button
+{
+  position:absolute;
+  background-color:black;
+  color:white;
+  border-radius: 100%;
+  width:30px;
+  height:30px;
+  border-style:none;
+  font-size:12px;
+  top:-15px;
+  left:-15px;
+}
+.gray-window
+{
+  position:fixed;
+  background-color: gray;
+  width:320px;
+  height:180px;
+  bottom:0px;
+  right:0px;
+}
+.time-stamp
+{
+  font-family:Arial;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  position:absolute;
+  background-color:black;
+  color:white;
+  width:40px;
+  height:25px;
+  bottom:8px;
+  right:8px;
+}

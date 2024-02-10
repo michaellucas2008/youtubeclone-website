@@ -1,0 +1,158 @@
+.uber-request-button
+  {
+    background-color: black;
+    border: none;
+    height: 45px;
+    width: 125px;
+    color:white;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    transition: opacity 0.15s;
+  }
+
+  .uber-request-button:hover
+  {
+    opacity: 0.8;
+  }
+
+  .uber-request-button:active
+  {
+    opacity: 0.4;
+  }
+
+
+  .amazon-add-to-cart-button
+  {
+    border-radius:15px;
+    border:none;
+    background-color:#fad84d;
+    height:30px;
+    width:145px;
+    color:black;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    transition: background-color 0.15s;
+  }
+  .amazon-add-to-cart-button:hover
+  {
+    background-color: #f4c101;
+  }
+  .github-sign-up-button
+  {
+    border-radius:3px;
+    border:none;
+    background-color:#56a45a;
+    height: 35px;
+    width: 85px;
+    color:#fafffa;
+    font-weight:bold;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    transition: box-shadow 0.15s;
+  }
+  .github-sign-up-button:hover
+  {
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.15);
+  }
+
+  .bootstrap-get-started-button
+  {
+    border-radius: 3px;
+    border:none;
+    background-color:#6c4ea4;
+    height:35px;
+    width: 110px;
+    color:white;
+    font-weight: bold;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    transition: background-color 0.15s;
+  }
+  .bootstrap-get-started-button:hover
+  {
+    background-color: #573983;
+  }
+  .bootstrap-download-button
+  {
+    border-radius: 3px;
+    border:#616971;
+    border-style: solid;
+    border-width: 1px;
+    height:35px;
+    width: 110px;
+    background-color: white;
+    color:#616971;
+    font-weight: bold;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    transition: background-color 0.15s;
+  }
+  .bootstrap-download-button:hover
+  {
+    background-color: #616971;
+    color:white;
+    border:white;
+  }
+
+  .linkedln-apply-on-company-website-button
+  {
+    border-radius:25px;
+    border:none;
+    height:50px;
+    width:300px;
+    color:white;
+    background-color: #295aab;
+    font-weight:bolder;
+    font-size: larger;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    transition: background-color 0.15s;
+  }
+  .linkedln-apply-on-company-website-button:hover
+  {
+    background-color: #00397b;
+  }
+
+  .linkedln-save-button
+  {
+    border-radius:25px;
+    border-color:#295aab;
+    border-style: solid;
+    border-width: 1px;
+    height:50px;
+    width:100px;
+    color:#295aab;
+    background-color: white;
+    font-weight:bolder;
+    font-size: larger;
+    margin-right: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    margin-bottom: 8px;
+    transition: background-color 0.15s,
+                border-width 0.15s;
+  }
+  .linkedln-save-button:hover
+  {
+    background-color: #deebfe;
+    border-width: 2px;
+  }
